@@ -1,0 +1,1 @@
+export const GOOGLE_API_KEY = 'myapikey from google cloud services';
